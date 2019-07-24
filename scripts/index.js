@@ -1,10 +1,6 @@
-
-//function change_background() {
-//    $(this).toggleClass('cage');
-//    console.log("button pushed");
-//}
 $(document).ready(function(){
-    $("button").click(function(){
+    $("#background_swap").click(function(){
       $("body").toggleClass("cage");
+      console.log("Shrek is Cage.")
     });
   });
