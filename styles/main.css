@@ -1,0 +1,14 @@
+/*body {
+    background-image: url("../images/shrek.jpg");
+    background-repeat: repeat;
+  }
+*/
+.shrek {
+  background-image: url("../images/shrek2.jpg");
+  background-repeat: repeat;
+}
+
+.cage {
+  background-image: url("../images/shrek.jpg");
+  background-repeat: repeat;
+}
